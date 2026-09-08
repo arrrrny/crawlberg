@@ -1,0 +1,234 @@
+{
+  "id": "2026-08-19-022200",
+  "generated_at": "2026-08-18T23:22:00.577586Z",
+  "language": "en",
+  "pages": [
+    {
+      "slug": "1-overview",
+      "title": "Overview",
+      "file": "1-overview.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-quick-start",
+      "title": "Quick Start",
+      "file": "2-quick-start.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-installation-across-languages",
+      "title": "Installation Across Languages",
+      "file": "3-installation-across-languages.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "4-cli-usage",
+      "title": "CLI Usage",
+      "file": "4-cli-usage.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "5-core-public-api",
+      "title": "Core Public API",
+      "file": "5-core-public-api.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "6-scrape-a-single-page",
+      "title": "Scrape a Single Page",
+      "file": "6-scrape-a-single-page.md",
+      "section": "Get Started",
+      "group": "First Steps",
+      "level": "Beginner"
+    },
+    {
+      "slug": "7-crawl-a-website",
+      "title": "Crawl a Website",
+      "file": "7-crawl-a-website.md",
+      "section": "Get Started",
+      "group": "First Steps",
+      "level": "Beginner"
+    },
+    {
+      "slug": "8-discover-urls-with-map",
+      "title": "Discover URLs with Map",
+      "file": "8-discover-urls-with-map.md",
+      "section": "Get Started",
+      "group": "First Steps",
+      "level": "Beginner"
+    },
+    {
+      "slug": "9-architecture-and-data-flow",
+      "title": "Architecture and Data Flow",
+      "file": "9-architecture-and-data-flow.md",
+      "section": "Deep Dive",
+      "group": "Architecture \u0026 Design",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "10-trait-based-pluggable-engine",
+      "title": "Trait-Based Pluggable Engine",
+      "file": "10-trait-based-pluggable-engine.md",
+      "section": "Deep Dive",
+      "group": "Architecture \u0026 Design",
+      "level": "Advanced"
+    },
+    {
+      "slug": "11-configuration-reference-crawlconfig",
+      "title": "Configuration Reference (CrawlConfig)",
+      "file": "11-configuration-reference-crawlconfig.md",
+      "section": "Deep Dive",
+      "group": "Architecture \u0026 Design",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "12-result-types-and-data-models",
+      "title": "Result Types and Data Models",
+      "file": "12-result-types-and-data-models.md",
+      "section": "Deep Dive",
+      "group": "Architecture \u0026 Design",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "13-html-parsing-and-content-extraction",
+      "title": "HTML Parsing and Content Extraction",
+      "file": "13-html-parsing-and-content-extraction.md",
+      "section": "Deep Dive",
+      "group": "Crawling Pipeline",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "14-markdown-conversion-pipeline",
+      "title": "Markdown Conversion Pipeline",
+      "file": "14-markdown-conversion-pipeline.md",
+      "section": "Deep Dive",
+      "group": "Crawling Pipeline",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "15-concurrent-crawl-strategies-and-url-frontier",
+      "title": "Concurrent Crawl Strategies and URL Frontier",
+      "file": "15-concurrent-crawl-strategies-and-url-frontier.md",
+      "section": "Deep Dive",
+      "group": "Crawling Pipeline",
+      "level": "Advanced"
+    },
+    {
+      "slug": "16-robots-txt-and-sitemap-compliance",
+      "title": "Robots.txt and Sitemap Compliance",
+      "file": "16-robots-txt-and-sitemap-compliance.md",
+      "section": "Deep Dive",
+      "group": "Crawling Pipeline",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "17-rate-limiting-and-caching",
+      "title": "Rate Limiting and Caching",
+      "file": "17-rate-limiting-and-caching.md",
+      "section": "Deep Dive",
+      "group": "Crawling Pipeline",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "18-ssrf-defense-and-url-validation",
+      "title": "SSRF Defense and URL Validation",
+      "file": "18-ssrf-defense-and-url-validation.md",
+      "section": "Deep Dive",
+      "group": "Security \u0026 Resilience",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "19-waf-detection-and-fingerprint-classification",
+      "title": "WAF Detection and Fingerprint Classification",
+      "file": "19-waf-detection-and-fingerprint-classification.md",
+      "section": "Deep Dive",
+      "group": "Security \u0026 Resilience",
+      "level": "Advanced"
+    },
+    {
+      "slug": "20-tiered-escalation-strategy-http-bypass-browser",
+      "title": "Tiered Escalation Strategy (HTTP, Bypass, Browser)",
+      "file": "20-tiered-escalation-strategy-http-bypass-browser.md",
+      "section": "Deep Dive",
+      "group": "Security \u0026 Resilience",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "21-browser-rendering-backends",
+      "title": "Browser Rendering Backends",
+      "file": "21-browser-rendering-backends.md",
+      "section": "Deep Dive",
+      "group": "Browser Automation",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "22-page-interaction-and-action-execution",
+      "title": "Page Interaction and Action Execution",
+      "file": "22-page-interaction-and-action-execution.md",
+      "section": "Deep Dive",
+      "group": "Browser Automation",
+      "level": "Advanced"
+    },
+    {
+      "slug": "23-bot-detection-evasion-and-stealth",
+      "title": "Bot Detection Evasion and Stealth",
+      "file": "23-bot-detection-evasion-and-stealth.md",
+      "section": "Deep Dive",
+      "group": "Browser Automation",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "24-mcp-server-for-ai-agents",
+      "title": "MCP Server for AI Agents",
+      "file": "24-mcp-server-for-ai-agents.md",
+      "section": "Deep Dive",
+      "group": "Integration \u0026 Extension",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "25-rest-api-server",
+      "title": "REST API Server",
+      "file": "25-rest-api-server.md",
+      "section": "Deep Dive",
+      "group": "Integration \u0026 Extension",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "26-polyglot-language-bindings-architecture",
+      "title": "Polyglot Language Bindings Architecture",
+      "file": "26-polyglot-language-bindings-architecture.md",
+      "section": "Deep Dive",
+      "group": "Integration \u0026 Extension",
+      "level": "Advanced"
+    },
+    {
+      "slug": "27-observability-and-telemetry",
+      "title": "Observability and Telemetry",
+      "file": "27-observability-and-telemetry.md",
+      "section": "Deep Dive",
+      "group": "Integration \u0026 Extension",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "28-testing-strategy-unit-e2e-fuzz",
+      "title": "Testing Strategy (Unit, E2E, Fuzz)",
+      "file": "28-testing-strategy-unit-e2e-fuzz.md",
+      "section": "Deep Dive",
+      "group": "Quality \u0026 Operations",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "29-docker-and-deployment",
+      "title": "Docker and Deployment",
+      "file": "29-docker-and-deployment.md",
+      "section": "Deep Dive",
+      "group": "Quality \u0026 Operations",
+      "level": "Intermediate"
+    }
+  ]
+}
